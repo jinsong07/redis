@@ -45,7 +45,7 @@
  */
 
 /* Interleave lower bits of x and y, so the bits of x
- * are in the even positions and bits from y in the odd;
+ * are in the odd positions and bits from y in the event;
  * x and y must initially be less than 2**32 (65536).
  * From:  https://graphics.stanford.edu/~seander/bithacks.html#InterleaveBMN
  */
